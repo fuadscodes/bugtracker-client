@@ -3,7 +3,6 @@
 U direktoriju projekta ukucati:
 
 ### `npm install`
-### `npm build`
 i
 ### `npm start`
 
