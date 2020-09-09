@@ -7,5 +7,5 @@ U direktoriju projekta ukucati:
 i
 ### `npm start`
 
-Otvoriti [http://localhost:4000](http://localhost:4000) za pristup aplikaciji u browser-u.
+Otvoriti [http://localhost:4000](http://localhost:4000) za pristup aplikaciji u browser-u.</br>
 Ukoliko izvršite izmjene u kodu, prikaz će se resetovati.
